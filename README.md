@@ -9,7 +9,7 @@ Projede eğitilen Gaussian Naïve Bayes modelinin performansı, hem istatistikse
 
 ### 1. Temel Performans Metrikleri
 
-Test seti (%20) üzerinde yapılan tahminler sonucunda elde edilen temel sınıflandırma başarı ölçütleri şu şekildedir:
+Test seti üzerinde yapılan tahminler sonucunda elde edilen temel sınıflandırma başarı ölçütleri şu şekildedir:
 
 * **Accuracy:** `0.529`
 * **Sensitivity:** `0.577`
