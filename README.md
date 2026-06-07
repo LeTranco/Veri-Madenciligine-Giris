@@ -23,17 +23,17 @@ Modelin kararlılığını test etmek ve ezberleme durumunun önüne geçmek ama
 ### 3. Confusion Matrix
 Sınıflandırıcının hangi sınıfları ne kadar doğru veya hatalı tahmin ettiğini gösteren kafa karışıklığı matrisi aşağıda yer almaktadır.
 
-![Confusion Matrix](<img width="800" height="600" alt="2_confusion_matrix" src="https://github.com/user-attachments/assets/c5241d23-488b-444e-8278-8d6d09ba145f" />)
+<img width="800" height="600" alt="2_confusion_matrix" src="https://github.com/user-attachments/assets/c5241d23-488b-444e-8278-8d6d09ba145f" />
 
 ### 4. ROC Eğrisi
 Modelin farklı sınıflandırma eşik değerlerindeki başarımını gösteren ROC Eğrisi çizdirilmiştir.
 
-![ROC Eğrisi](<img width="640" height="480" alt="3_roc_egrisi" src="https://github.com/user-attachments/assets/551a9cd2-4175-4c45-b815-eff704197acb" />)
+<img width="640" height="480" alt="3_roc_egrisi" src="https://github.com/user-attachments/assets/551a9cd2-4175-4c45-b815-eff704197acb" />
 
 ### 5. Özellik Önemi (Permutation Importance)
 Modelin tahmin kararlarını verirken hangi bağımsız değişkenlere daha çok güvendiğini saptamak amacıyla permütasyon önem dereceleri hesaplanmıştır.
 
-![Özellik Önemi](<img width="1000" height="600" alt="4_ozellik_onem_grafigi" src="https://github.com/user-attachments/assets/9c7e9d7d-12e8-4c78-9911-7cbb67042662" />)
+<img width="1000" height="600" alt="4_ozellik_onem_grafigi" src="https://github.com/user-attachments/assets/9c7e9d7d-12e8-4c78-9911-7cbb67042662" />
 
 ## Kaynakça
 
