@@ -30,7 +30,7 @@ Modelin farklı sınıflandırma eşik değerlerindeki başarımını gösteren 
 
 <img width="640" height="480" alt="3_roc_egrisi" src="https://github.com/user-attachments/assets/551a9cd2-4175-4c45-b815-eff704197acb" />
 
-### 5. Özellik Önemi (Permutation Importance)
+### 5. Özellik Önemi
 Modelin tahmin kararlarını verirken hangi bağımsız değişkenlere daha çok güvendiğini saptamak amacıyla permütasyon önem dereceleri hesaplanmıştır.
 
 <img width="1000" height="600" alt="4_ozellik_onem_grafigi" src="https://github.com/user-attachments/assets/9c7e9d7d-12e8-4c78-9911-7cbb67042662" />
