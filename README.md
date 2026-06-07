@@ -1,9 +1,9 @@
-#Piston Halkaları Taşlama İşlemi Makine Öğrenmesi Uygulaması#
+# Piston Halkaları Taşlama İşlemi Makine Öğrenmesi Uygulaması
 
 BLM0463 Veri Madenciliğine Giriş dersinin dönem ödevi için hazırladığım bu projede amaç, sadece makine ayarlarına ve sensör okumalarına bakarak o an üretilen parçanın
 kalitesinin ne olacağını, parçayı daha test etmeden önce otomatik olarak tahmin etmektir.
 
-##Model Değerlendirmesi##
+## Model Değerlendirmesi
 
 Projede eğitilen Gaussian Naïve Bayes modelinin performansı, hem istatistiksel metrikler hem de çeşitli görselleştirme araçları kullanılarak kapsamlı bir şekilde değerlendirilmiştir.
 
@@ -35,6 +35,6 @@ Modelin tahmin kararlarını verirken hangi bağımsız değişkenlere daha çok
 
 ![Özellik Önemi](<img width="1000" height="600" alt="4_ozellik_onem_grafigi" src="https://github.com/user-attachments/assets/9c7e9d7d-12e8-4c78-9911-7cbb67042662" />)
 
-##Kaynakça##
+## Kaynakça
 
 M. de Castro Cesário, M. V. de Souza, M. C. Pereira, and A. P. de Paiva, "Industrial manufacturing dataset for cylindrical plunge grinding of martensitic gray cast iron piston rings," Data in Brief, vol. 66, art. no. 112706, Jun. 2026. 
