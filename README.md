@@ -20,7 +20,7 @@ Modelin kararlılığını test etmek ve ezberleme durumunun önüne geçmek ama
 * **Katman Başarıları:** `0.4958, 0.5083, 0.5166, 0.4916, 0.4916`
 * **Ortalama Güvenilir Doğruluk:** `0.5008`
 
-### 3. Confusion Matrix
+### 3. Karmaşıklık Matrisi
 Sınıflandırıcının hangi sınıfları ne kadar doğru veya hatalı tahmin ettiğini gösteren kafa karışıklığı matrisi aşağıda yer almaktadır.
 
 <img width="800" height="600" alt="2_confusion_matrix" src="https://github.com/user-attachments/assets/c5241d23-488b-444e-8278-8d6d09ba145f" />
